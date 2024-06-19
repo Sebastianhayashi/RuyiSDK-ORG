@@ -9,6 +9,6 @@ aiming to provide RISC-V developers with a convenient and comprehensive developm
 
 [Here it is!](https://github.com/ruyisdk/ruyi?tab=readme-ov-file)
 
-## These makes Ruyi
+## These made Ruyi
 
 
