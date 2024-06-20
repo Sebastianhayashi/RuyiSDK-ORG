@@ -1,6 +1,6 @@
 # A Visible [Future](http://ruyisdk.org/) of RISC-V Development
 
-![[Ruyi Package Manager.jpg]]
+![RuyiSDK.jpg](./img/RuyiSDK.jpg)
 ## What is RuyiSDK
 
 The RuyiSDK is an open-source project started by the Chinese Academy of Sciences (ISCAS), focusing on provide RISC-V developers with a easy and comprehensive way to doing development on RISC-V.
@@ -19,11 +19,11 @@ That's all RuyiSDK have solved!
 
 ## These made RuyiSDK
 
-| **RuyiSDK Component**                                      | **Status**                               |
-| ---------------------------------------------------------- | ---------------------------------------- |
-| [RuyiSDK Package Manager](https://github.com/ruyisdk/ruyi) | - [x] Completed and continuously updated |
-| Ruyi IDE                                                   | - [ ] Planned (TODO)                     |
-| Community                                                  | - [x] Completed                          |
+| **RuyiSDK Component**                                      | **Status**           |
+| ---------------------------------------------------------- | -------------------- |
+| [RuyiSDK Package Manager](https://github.com/ruyisdk/ruyi) | Continuously updated |
+| Ruyi IDE                                                   | Planned (TODO)       |
+| Community                                                  | Open                 |
 
 ## How Can I Get to RuyiSDK
 
