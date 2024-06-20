@@ -1,16 +1,34 @@
-# A Visible [Future](https://mirror.iscas.ac.cn/ruyisdk/ruyi/testing/) of RISC-V Development
+# A Visible [Future](http://ruyisdk.org/) of RISC-V Development
 
-![06Fqm6GH_400x400.jpg](./img/06Fqm6GH_400x400.jpg)
+![[Ruyi Package Manager.jpg]]
+## What is RuyiSDK
 
-## What is Ruyi
+The RuyiSDK is an open-source project started by the Chinese Academy of Sciences (ISCAS), focusing on provide RISC-V developers with a easy and comprehensive way to doing development on RISC-V.
 
-The RuyiSDK is an open-source project initiated by the Institute of Software at the Chinese Academy of Sciences (ISCAS), 
-aiming to provide RISC-V developers with a convenient and comprehensive development environment.
+## Why RuyiSDK
 
-## How Can I Get to Ruyi
+RuyiSDK now provides a brand new chance for RISC-V development.
 
-[Here it is!](https://github.com/ruyisdk/ruyi?tab=readme-ov-file)
+In the past, developers working on the RISC-V architechture are facing lack of a complete development environment. So that's why we created RuyiSDK.
 
-## These made Ruyi
+- [x] Hard to get information of RISC-V
+- [x] Incomplete Development Platform
+- [x] Lack of a Related Community
+
+That's all RuyiSDK have solved!
+
+## These made RuyiSDK
+
+| **RuyiSDK Component**                                      | **Status**                               |
+| ---------------------------------------------------------- | ---------------------------------------- |
+| [RuyiSDK Package Manager](https://github.com/ruyisdk/ruyi) | - [x] Completed and continuously updated |
+| Ruyi IDE                                                   | - [ ] Planned (TODO)                     |
+| Community                                                  | - [x] Completed                          |
+
+## How Can I Get to RuyiSDK
+
+[Documentation](https://ruyisdk.github.io/docs/zh/introduction/)
+> Chinese Only, Planning English
+
 
 
